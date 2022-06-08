@@ -1,11 +1,11 @@
 # CHARACTERS
-![image1](/img/Characters.PNG)
+![image1](img/Characters.png)
 # MONSTERS
-![image1](/img/Monsters.PNG)
+![image1](img/Monsters.png)
 # WEAPONS
-![image1](/img/Weapons.PNG)
+![image1](/img/Weapons.png)
 # ARMORS
-![image1](/img/Armors.PNG)
+![image1](/img/Armors.png)
 
 # LOCATIONS
 ## Safe House
